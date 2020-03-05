@@ -1,0 +1,2 @@
+-Prior to shipping, remove less.min.js remote script and compile locally.
+-Remote scripts don't run on local files. Spin up apache first.
